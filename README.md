@@ -6,6 +6,23 @@
   </a>
 </p>
 
+<div style="text-align: center; max-width: 800px; margin: auto;">
+
+  <!-- Clickable p5.js Sketch Badge -->
+  <a href="https://editor.p5js.org/kadencsgo/sketches/GAME2ntMZ" target="_blank" rel="noopener noreferrer" style="display: inline-block; margin-bottom: 20px;">
+    <img src="https://img.shields.io/badge/p5.js-Live%20Sketch-6A0DAD?style=for-the-badge&logo=p5.js&logoColor=white" alt="p5.js Live Sketch" />
+  </a>
+
+  <!-- Embedded Video -->
+  <video width="100%" height="auto" controls>
+    <source src="YOUR_VIDEO_URL_HERE.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+</div>
+
+
+
 
 ---
 
