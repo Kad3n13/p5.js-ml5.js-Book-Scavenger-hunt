@@ -59,4 +59,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-*Made with ❤️ by [Kad3n13](https://github.com/Kad3n13)*
+*Made with  ˗ˋˏ ♡ ˎˊ˗  by [Kad3n13](https://github.com/Kad3n13)*
